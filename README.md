@@ -52,3 +52,19 @@
 - tensorboard, W&B 사용법 (with pytorch lightning)
 - [[부스트캠프 Tech Talk] 김봉진 WandB로 Auto ML 뿌수기](https://www.slideshare.net/BoostCamp1/tech-talk-wandb-auto-ml)
 - [notebook](./lab04/lab04_experiments.ipynb)
+
+## Lecture3: Troubleshooting & Testing
+
+### [Lecture](https://fullstackdeeplearning.com/course/2022/lecture-3-troubleshooting-and-testing/)
+
+- Testing Software
+  - Pytest, doctests, Codecov, black, flake8, shellcheck, github action, pre-commit
+- Testing ML Systems
+  - Use Expection Testing: test our data by checking basic properties, [Testing ML Example](https://github.com/GokuMohandas/testing-ml#training)
+  - Use Memorization Testing: 해당 데이터로 모델 훈련이 잘 되는지 확인하는 것
+  - Adapt Regression Testing: 하나의 데이터를 뽑아서 예상되는 결과가 나오는지 확인, loss와 metric을 활용할 수도 있다, loss가 큰 데이터를 살펴보기
+
+### [Lab 5: Troubleshooting & Testing](https://fullstackdeeplearning.com/course/2022/lab-5-troubleshooting-and-testing/)
+
+- lint, test, torch profile
+- [notebook](./lab05/lab05_troubleshooting.ipynb)

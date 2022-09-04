@@ -68,3 +68,15 @@
 
 - lint, test, torch profile
 - [notebook](./lab05/lab05_troubleshooting.ipynb)
+
+## Lecture4: Data Management
+
+### [Lecture](https://fullstackdeeplearning.com/course/2022/lecture-4-data-management/)
+
+- Data Sources, Data Exploration, Data Processing, Feature Store, Data Labeling, Data Versiong
+
+### [Lab 6: Data Annotation](https://fullstackdeeplearning.com/course/2022/lab-6-data-annotation/)
+
+- Loading annotated data and synthesizing data
+- Label Studio
+- [notebook](./lab06/lab06_data.ipynb)

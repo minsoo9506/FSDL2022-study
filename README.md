@@ -80,3 +80,11 @@
 - Loading annotated data and synthesizing data
 - Label Studio
 - [notebook](./lab06/lab06_data.ipynb)
+
+## Lecture5: Deployment
+
+### [Lecture](https://fullstackdeeplearning.com/course/2022/lecture-5-deployment/)
+
+### [Lab 7: Web Deployment](https://fullstackdeeplearning.com/course/2022/lab-7-web-deployment/)
+
+- [notebook](./lab07/lab07_deployment.ipynb)

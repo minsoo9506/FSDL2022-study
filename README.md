@@ -75,3 +75,8 @@
 - [Lab 8: Model Monitoring](https://fullstackdeeplearning.com/course/2022/lab-8-model-monitoring/)
   - Gantry (model monitoring, continual learning tool)
   - [notebook](./lab08/lab08_monitoring.ipynb)
+
+## Lecture7: Foundation Models
+
+- [Lecture](https://fullstackdeeplearning.com/course/2022/lecture-7-foundation-models/)
+  - Fine Tuning, Transformers, Prompt Engineering, Application
